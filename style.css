@@ -31,7 +31,7 @@ p{
     
 }
     .categoria-videos{
-        display: flex
+        display: flex;
         overflow-x:auto;
         gap: 10px;
     }
@@ -44,12 +44,12 @@ p{
           opacity: 0.5;
           height: 200px;
        }
-       .categoria-videos img:houver{
+       .categoria-videos img:hover{
            opacity: 1.0;
            border: 3px solid green;
        }
        .categoria h2{
-         clor:rgb(42,122,228);
+         color:rgb(42,122,228);
        }
 
     
